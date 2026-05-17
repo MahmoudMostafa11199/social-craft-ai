@@ -7,9 +7,21 @@
 
 ---
 
+## 📸 Screenshots
+
+### Dark Mode
+
+![SocialCraft AI Dark Mode](./assets/socialCraftAi-dark.png)
+
+### Light Mode
+
+![SocialCraft AI Light Mode](./assets/socialCraftAi-light.png)
+
+---
+
 ## 🧠 How It Works
 
-```
+```bash
 User types a topic
        ↓
 React App  →  POST /webhook/social-agent
